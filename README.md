@@ -1,16 +1,11 @@
-# river_makale
+# Riverpod Filter / Sort Example
 
-A new Flutter project.
+A bit complex real-world riverpod example in Flutter
 
-## Getting Started
+Riverpod + StateNotifier + Hooks + Freezed
 
-This project is a starting point for a Flutter application.
+Further information about the project: [Medium](https://itnext.io/flutter-state-management-with-riverpod-ef8d4ef77392)
 
-A few resources to get you started if this is your first Flutter project:
+![Cover](cover.jpeg)
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Animation](animation.gif)
